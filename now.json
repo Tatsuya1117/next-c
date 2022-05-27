@@ -1,0 +1,8 @@
+{
+    "build": {
+      "env": {
+        "API_KEY": "https://goodday-corporate.microcms.io/api/v1/",
+        "END_POINT": "articles"
+      }
+    }
+  }
